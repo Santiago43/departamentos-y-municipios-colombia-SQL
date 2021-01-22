@@ -1,5 +1,5 @@
 
-INSERT INTO Departamento (Departamento_ID, Nombre)
+INSERT INTO Departamento (Departamento_ID, Departamento)
 VALUES
 	(5,'ANTIOQUIA'),
 	(8,'ATLÁNTICO'),
@@ -28,7 +28,7 @@ VALUES
 	(81,'ARAUCA'),
 	(85,'CASANARE'),
 	(86,'PUTUMAYO'),
-	(88,'ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA'),
+	(88,'ARCHIPIÉLAGO DE SAN ANDRÉS'),
 	(91,'AMAZONAS'),
 	(94,'GUAINÍA'),
 	(95,'GUAVIARE'),
